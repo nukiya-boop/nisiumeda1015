@@ -1,6 +1,7 @@
 # Instagram 投稿キャプション（西梅田 禅園 PRリール）
 
-動画: `video/zenen_reel.mp4`（1080×1920 / 30秒 / 9:16）
+動画: `video/zenen_reel_bgm.mp4`（BGM付き・投稿用）／ `video/zenen_reel.mp4`（無音）
+1080×1920 / 30秒 / 9:16　BGM: Paper Lanterns（冒頭30秒）
 
 ---
 
