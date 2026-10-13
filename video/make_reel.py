@@ -378,7 +378,7 @@ def build_texts():
              .hline("COUNTER", 1110, 28, GOLD, tracking=0.45)
              .hline("カウンター席", 1170, 76, tracking=0.12)
              .rule(1310, 120, delay=0.4)
-             .hline("料理人の手仕事を、目の前で", 1350, 38, tracking=0.1))
+             .hline("ひとり飲みやデートに", 1350, 38, tracking=0.1))
     # 4. テーブル
     B.append(TextBlock(12.35, 15.75, stagger=0.05, scrim=(1240, 0.62))
              .hline("TABLE", 1110, 28, GOLD, tracking=0.45)
